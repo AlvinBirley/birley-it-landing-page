@@ -72,3 +72,58 @@ button {
     font-weight: bolder;
     border-radius: 12px;
 }
+
+.info-main {
+    display: flex;
+    flex-direction: column;
+    margin: 0px
+}
+
+.random {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.four-pics {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.four-ps {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.four-ps p {
+    height: 100px;
+    width: 100px;
+}
+
+.p1 {
+    margin-right: 30px;
+    margin-left: -10px;
+}
+
+.p3 {
+    padding-left: 15px;
+}
+
+.p4 {
+    margin-left: 30px;
+}
+
+.pic1 {
+    margin-right: 30px;
+}
+
+.pic2 {
+    margin-right: 30px;
+}
+
+.pic3 {
+    margin-right: 30px;
+}
