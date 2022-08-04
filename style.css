@@ -121,3 +121,31 @@ button {
     margin-top: -20px;
     padding-left: 20px;    
 }
+
+.quote-main {
+    background-color: #E5E7EB;
+    margin: 0px;
+    display: flex;
+}
+
+.quote-text {
+padding-top: 100px;
+padding-bottom: 100px;;
+padding-left: 200px;
+padding-right: 200px;
+display: flex;
+flex-direction: column;
+}
+.quote-p {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-p2 {
+    font-size: 25px;
+    align-self: flex-end;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
