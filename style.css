@@ -162,7 +162,7 @@ flex-direction: column;
     margin-right: 225px;
     height: 125px;
     border-radius: 10px;
-    display: flex;
+   
  }
 
  .cta-2 {
@@ -198,3 +198,12 @@ flex-direction: column;
     font-size: 15px;
 }
 
+.footer {
+    background-color: #1F2937; 
+    display: flex;
+    justify-content: center;
+}
+
+.footer p {
+    color: #E5E7EB;
+}
